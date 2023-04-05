@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hEy6n\\source\\repos\\Metodologias de Desenvolvimento de Software - Parte 2\\Metodologias de Desenvolvimento de Software - Parte 2\\Metodologias de Desenvolvimento de Software - Parte 2.csproj",
+      "projectUniqueName": "C:\\Users\\hEy6n\\Source\\Repos\\BlazorContacts\\Metodologias de Desenvolvimento de Software - Parte 2\\Metodologias de Desenvolvimento de Software - Parte 2.csproj",
       "projectName": "Metodologias de Desenvolvimento de Software - Parte 2",
-      "projectPath": "C:\\Users\\hEy6n\\source\\repos\\Metodologias de Desenvolvimento de Software - Parte 2\\Metodologias de Desenvolvimento de Software - Parte 2\\Metodologias de Desenvolvimento de Software - Parte 2.csproj",
+      "projectPath": "C:\\Users\\hEy6n\\Source\\Repos\\BlazorContacts\\Metodologias de Desenvolvimento de Software - Parte 2\\Metodologias de Desenvolvimento de Software - Parte 2.csproj",
       "packagesPath": "C:\\Users\\hEy6n\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hEy6n\\source\\repos\\Metodologias de Desenvolvimento de Software - Parte 2\\Metodologias de Desenvolvimento de Software - Parte 2\\obj\\",
+      "outputPath": "C:\\Users\\hEy6n\\Source\\Repos\\BlazorContacts\\Metodologias de Desenvolvimento de Software - Parte 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio\\Components, tools and SDKs\\NuGetPackages"
